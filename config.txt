@@ -1,0 +1,5 @@
+#test
+#Thu May 14 23:09:47 EEST 2015
+port=8888
+maxUserSize=10
+banList=banList.txt
